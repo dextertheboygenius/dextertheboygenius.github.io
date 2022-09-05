@@ -141,6 +141,10 @@ projects:
       - title: Tools & Applications
 #        link: "#"
         tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence;  "
+        
+      - title: Homelab Enthusiam
+#        link: "#"
+        tagline: "Proxmox; Docker; "
 
 #publications:
 #    title: Publications
