@@ -12,22 +12,22 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ibiswas @ outlook.com.au
+    email: ibiswas(@)outlook(.)com(.)au
     phone: Zero Four One Three Zero One Two One Eight Zero
     timezone: Australia/Sydney Timezone
     citizenship: Australian
     website: dexterboygenius.online #do not add http://
     linkedin: indrapramitbiswas
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -40,13 +40,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Outdoors / Endurance Activities
         link:
 
-      - item: Snowboarding
+      - item: Homelab / SelfHosting
         link:
 
-      - item: Cooking
+      - item: Gaming
         link:
 
 career-profile:
@@ -54,9 +54,9 @@ career-profile:
     summary: |
       This is a test, will add later.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Technology, Electronics and Communication Engineering
+      university: West Bengal University of Technology
+      time: 2002 - 2006
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,17 +65,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    #- degree: BSc in Applied Mathematics
+    #  university: Bristol University
+    #  time: 2007 - 2011
+    #  details: |
+    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #    pretium quis, sem.
+    #      - Bullet point
+    #      - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
