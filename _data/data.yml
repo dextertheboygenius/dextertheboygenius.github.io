@@ -12,7 +12,7 @@ sidebar:
     avatar: Photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ibiswas(@)outlook(.)com(.)au
+    email: ibiswas (@) outlook (.) com (.) au
     phone: Zero Four One Three Zero One Two One Eight Zero
     timezone: Australia/Sydney Timezone
     citizenship: Australian
@@ -43,7 +43,7 @@ sidebar:
       - item: Outdoors / Endurance Activities
         link:
 
-      - item: Homelab / SelfHosting
+      - item: Homelab / Self-Hosting
         link:
 
       - item: Gaming
@@ -58,24 +58,7 @@ education:
       university: West Bengal University of Technology
       time: 2002 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    #- degree: BSc in Applied Mathematics
-    #  university: Bristol University
-    #  time: 2007 - 2011
-    #  details: |
-    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #    pretium quis, sem.
-    #      - Bullet point
-    #      - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -115,7 +98,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Skills
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
