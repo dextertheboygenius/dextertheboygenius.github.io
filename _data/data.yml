@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ibiswas (@) outlook (.) com (.) au
-    phone: Zero Four One Three Zero One Two One Eight Zero
+    phone: +61 Zero Four One Three Zero One Two One Eight Zero
     timezone: Australia/Sydney Timezone
     citizenship: Australian
     website: dexterboygenius.online #do not add http://
@@ -127,6 +127,21 @@ experiences:
     - role: Associate IT Consultant
       time: Feb 2007 - Mar 2010
       company: ITC Infotech India Ltd, Bangalore, IN
+    - role: Operations Executive
+      time: Aug 2006 - Feb 2007
+      company: Intrasoft Technologies, Kolkata, IN
+    - role: Online Tutor
+      time: Feb 2006 - Aug 2006
+      company: 1to1tutor.com, Kolkata, IN
+    - role: Intern
+      time: Jan 2005 - Jan 2006
+      company: Ready to Go? Magazine, Kolkata, IN
+    - role: Intern
+      time: Jun 2005 - Jul 2005
+      company: National Thermal Power Corporation, West Bengal, IN
+    - role: Intern
+      time: Jan 2005 - Feb 2005
+      company: All India Radio, Kolkata, IN  
 
 projects:
     title: Skills
@@ -135,11 +150,11 @@ projects:
     assignments:
       - title: Cloud Computing (Azure)
 #        link: "#hook"
-        tagline: "Azure AD, IAM, PIM, Conditional Access; Exchange Online, Office 365; Teams Telephony; Sharepoint Online"
+        tagline: "Azure AD, IAM, PIM, Conditional Access; Intune MEM; Exchange Online, Office 365; Teams Telephony; Sharepoint Online"
 
       - title: Server Infrastructure
 #        link: "#"
-        tagline: "VMWare; Citrix Virtual Apps & Desktops; Windows Server; Exchange; Active Directory; SQL Server; Nimble Storage."
+        tagline: "VMWare; Citrix Virtual Apps & Desktops; Windows Server; Exchange; Active Directory; DNS; DHCP; SQL Server; Nimble Storage."
 
       - title: Security
 #        link: "#"
@@ -147,11 +162,11 @@ projects:
 
       - title: Network Infrastructure
 #        link: "#"
-        tagline: "Cisco; Meraki; Palo Alto; Big-IP LTM; Citrix Netscalers; "
+        tagline: "Cisco; Meraki; Palo Alto; Big-IP LTM; Citrix Netscalers; Untangle UTM"
 
       - title: Tools & Applications
 #        link: "#"
-        tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence;  "
+        tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence; SCCM  "
         
       - title: Homelab Tinkering
 #        link: "#"
