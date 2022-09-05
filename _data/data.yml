@@ -122,25 +122,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Cloud Computing (Azure)
+#        link: "#hook"
+        tagline: "Azure AD, IAM, PIM, Conditional Access; Exchange Online, Office 365; Teams Telephony; Sharepoint Online"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Server Infrastructure
+#        link: "#"
+        tagline: "VMWare; Citrix Virtual Apps & Desktops; Windows Server; Exchange; Active Directory; SQL Server; Nimble Storage."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Security
+#        link: "#"
+        tagline: "DarkTrace; Illumio; Cloudflare, Mimecast, Cylance, Microsoft Defender EDR"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Network Infrastructure
+#        link: "#"
+        tagline: "Cisco; Meraki; Palo Alto; Big-IP LTM; Citrix Netscalers; "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Tools & Applications
+#        link: "#"
+        tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence;  "
 
 #publications:
 #    title: Publications
@@ -164,27 +164,27 @@ projects:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: Ruby on Rails
+#        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
