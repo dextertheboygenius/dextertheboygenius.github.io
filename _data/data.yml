@@ -174,12 +174,10 @@ projects:
 
 publications:
     title: Certifications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-    papers:
-      - title: Microsoft Certified: Azure Security Fundamentals; Microsoft Certified: Azure Fundamentals; Microsoft Certified Solutions Associate; Microsoft Certified IT Professional; ITIL V3
+    intro: |
+      Microsoft Certified: Azure Security Fundamentals; Microsoft Certified: Azure Fundamentals; Microsoft Certified Solutions Associate; Microsoft Certified IT Professional; ITIL V3
+#    papers:
+#      - title: 
 #        link: "#"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
