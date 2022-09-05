@@ -130,8 +130,8 @@ experiences:
 
 projects:
     title: Skills
-    intro: >
-      Current Skills:
+#    intro: >
+#      Current Skills:
     assignments:
       - title: Cloud Computing (Azure)
 #        link: "#hook"
@@ -153,18 +153,18 @@ projects:
 #        link: "#"
         tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence;  "
         
-      - title: Homelab Enthusiam
+      - title: Homelab Tinkering
 #        link: "#"
         tagline: "Proxmox; Docker; "
 
 publications:
     title: Certifications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
-      - title: Azure Security Fundamentals; Azure Cloud Fundamentals
+      - title: Microsoft Certified: Azure Security Fundamentals; Microsoft Certified: Azure Fundamentals; Microsoft Certified Solutions Associate; Microsoft Certified IT Professional; ITIL V3
 #        link: "#"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
