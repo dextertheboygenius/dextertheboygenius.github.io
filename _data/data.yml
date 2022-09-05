@@ -93,6 +93,9 @@ experiences:
 #        architecto beatae vitae dicta sunt explicabo.
 #          - Bullet point
 #          - Bullet point
+    - role: Acting IT Manager
+      time: April 2022 - July 2022
+      company: Investa Office Management, Sydney, AU
     - role: System Administrator
       time: Nov 2013 - June 2017
       company: Abacus Property Group, Sydney, AU
@@ -121,6 +124,9 @@ experiences:
     - role: Senior Engineer
       time: Jan 2010 - Nov 2011
       company: Tesco, Bangalore, IN
+    - role: Associate IT Consultant
+      time: Feb 2007 - Mar 2010
+      company: ITC Infotech India Ltd, Bangalore, IN
 
 projects:
     title: Skills
