@@ -175,7 +175,11 @@ projects:
 publications:
     title: Certifications
     intro: |
-      Microsoft Certified: Azure Security Fundamentals; Microsoft Certified: Azure Fundamentals; Microsoft Certified Solutions Associate; Microsoft Certified IT Professional; ITIL V3
+      - Microsoft Certified: Azure Security Fundamentals; 
+      - Microsoft Certified: Azure Fundamentals; 
+      - Microsoft Certified Solutions Associate; 
+      - Microsoft Certified IT Professional; 
+      - ITIL V3
 #    papers:
 #      - title: 
 #        link: "#"
