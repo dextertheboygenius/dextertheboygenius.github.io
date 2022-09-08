@@ -158,7 +158,7 @@ projects:
 
       - title: Security
 #        link: "#"
-        tagline: "DarkTrace; Illumio; Cloudflare, Mimecast, Cylance, Microsoft Defender EDR"
+        tagline: "DarkTrace; Illumio; Cloudflare; Mimecast; Tenable; Cylance; Microsoft Defender; Endpoint Hardening; Server Hardening; Attack Surface Reduction; Endpoint Detection and Remidiation; Identity Protection"
 
       - title: Network Infrastructure
 #        link: "#"
@@ -170,7 +170,7 @@ projects:
         
       - title: Homelab Tinkering
 #        link: "#"
-        tagline: "Proxmox; Docker; "
+        tagline: "Proxmox; Ubuntu; Docker"
 
 publications:
     title: Certifications
