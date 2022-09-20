@@ -161,7 +161,7 @@ projects:
 
       - title: Security
 #        link: "#"
-        tagline: "DarkTrace; Illumio; Cloudflare; Mimecast; Tenable; Cylance; Microsoft Defender; Endpoint Hardening; Server Hardening; Attack Surface Reduction; Endpoint Detection and Remidiation; Identity Protection"
+        tagline: "DarkTrace; Illumio; Cloudflare; Mimecast; Tenable; Cylance; Microsoft Defender; Endpoint Hardening; Server Hardening; Attack Surface Reduction; Endpoint Detection and Remediation; Identity Protection"
 
       - title: Network Infrastructure
 #        link: "#"
