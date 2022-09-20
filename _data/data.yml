@@ -78,8 +78,8 @@ education:
     #      - Bullet point
 
 experiences:
-    - role: Senior Systems Enginner
-      time: June 2017 - Present
+    - role: Technical Lead - Cloud and Security
+      time: Sep 2022 - Present
       company: Investa Office Management, Sydney, AU
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -93,6 +93,9 @@ experiences:
 #        architecto beatae vitae dicta sunt explicabo.
 #          - Bullet point
 #          - Bullet point
+    - role: Senior Systems Engineer
+      time: June 2017 - August 2022
+      company: Investa Office Management, Sydney, AU
     - role: Acting IT Manager
       time: April 2022 - July 2022
       company: Investa Office Management, Sydney, AU
