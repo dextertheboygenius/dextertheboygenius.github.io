@@ -153,15 +153,15 @@ projects:
     assignments:
       - title: Cloud Computing (Azure)
 #        link: "#hook"
-        tagline: "Azure AD, IAM, PIM, Conditional Access; Intune MEM; Exchange Online, Office 365; Teams Telephony; Sharepoint Online"
+        tagline: "Azure AD; Identity and Access Management; Enterprise Applications; Single Sign On; Licensing; Resource Management; Azure Virtual Desktops; Azure Storage; Intune MDM and MEM; Exchange Online; Office 365; Security and Compliance; Teams Telephony; Sharepoint Online."
 
-      - title: Server Infrastructure
+      - title: Server and Storage Infrastructure
 #        link: "#"
-        tagline: "VMWare; Citrix Virtual Apps & Desktops; Windows Server; Exchange; Active Directory; DNS; DHCP; SQL Server; Nimble Storage."
+        tagline: "VMWare; Citrix Virtual Apps & Desktops; Windows Server; Exchange; Active Directory; DNS; DHCP; SQL Server; MDT - SOE; Sharepoint; Remote Access; Data Warehouse; Nimble Storage; NAS."
 
       - title: Security
 #        link: "#"
-        tagline: "DarkTrace; Illumio; Cloudflare; Mimecast; Tenable; Cylance; Microsoft Defender; Endpoint Hardening; Server Hardening; Attack Surface Reduction; Endpoint Detection and Remediation; Identity Protection"
+        tagline: "ZScaler (Private Access, Internet Security, CASB); CrowdStrike (EDTR); Microsoft Defender (AV, EDR, ASR, CASB); Cloudflare (WAF, Tunnelling and Remote Access); Microsoft Azure (Passwordless Authenication, MFA, Conditional Access Policies, Sentinel SIEM); Palo Alto (Firewall, AV, Anti-Spyware, URL Filtering, Data Filtering, File Blocking, DoS Protection, Global Protect Private Access); Mimecast (Email Security, DMARC Analyzer); Illumio (Micro segmentation and lateral traffic control); DarkTrace (Behaviour modelled threat detection); Tenable (Vulnerability management); Pen Testing; Endpoint Hardening."
 
       - title: Network Infrastructure
 #        link: "#"
@@ -169,7 +169,7 @@ projects:
 
       - title: Tools & Applications
 #        link: "#"
-        tagline: "Veeam Backup; Polycom Telephony; Atlassian Jira & Confluence; SCCM  "
+        tagline: "Veeam Backup; Ivanti Application Management; Polycom Telephony; Atlassian Jira & Confluence; SCCM; Disaster Recovery; Microsoft Purview and Avepoint - Data Governance, policies and framework."
         
       - title: Homelab Tinkering
 #        link: "#"
