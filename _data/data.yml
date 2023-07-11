@@ -156,7 +156,7 @@ projects:
     assignments:
       - title: Cloud Computing (Azure)
 #        link: "#hook"
-        tagline: "Azure AD; Identity and Access Management; Enterprise Applications; Single Sign On; Licensing; Resource Management; Azure Virtual Desktops; Azure Storage; Intune MDM and MEM; Exchange Online; Office 365; Security and Compliance; Teams Telephony; Sharepoint Online."
+        tagline: "Azure AD; Identity and Access Management; Enterprise Applications; SAML SSO; Licensing; Resource Management; Azure Virtual Desktops; Azure Storage; Intune MDM and MEM; Exchange Online; Office 365; Security and Compliance; Teams Telephony; Sharepoint Online."
 
       - title: Server and Storage Infrastructure
 #        link: "#"
