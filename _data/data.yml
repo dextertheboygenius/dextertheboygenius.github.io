@@ -168,7 +168,7 @@ projects:
 
       - title: Network Infrastructure
 #        link: "#"
-        tagline: "Cisco; Meraki; Palo Alto; Big-IP LTM; Citrix Netscalers; Untangle UTM"
+        tagline: "Cisco; Meraki; Palo Alto FW; Fortigate FW; Aruba; Big-IP LTM; Citrix Netscalers; Untangle UTM"
 
       - title: Tools & Applications
 #        link: "#"
