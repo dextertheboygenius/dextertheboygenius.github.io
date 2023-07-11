@@ -79,7 +79,7 @@ education:
 
 experiences:
     - role: IT Manager
-      time: Jun 2023 - Present
+      time: June 2023 - Present
       company: Abacus Group, Sydney, AU
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -94,7 +94,7 @@ experiences:
 #          - Bullet point
 #          - Bullet point
     - role: Technical Lead - Cloud and Security
-      time: Sep 2022 - Present
+      time: Sep 2022 - June 2023
       company: Investa Office Management, Sydney, AU
     - role: Senior Systems Engineer
       time: June 2017 - August 2022
